@@ -15,6 +15,8 @@ Below, I document some physics simulations that fall under classical mechanics. 
 **In the latter plots, the colors of the objects with mass are the same as their colors from the first plot. 
 
 ## 1) Pendulum on an Oscillating Mass
+
+[![MSP](https://i.imgur.com/O5choAa.png)]
  
 In this experiment, I simulate a pendulum attached to a mass. This mass is attached to a spring, which is attached to a wall. Note that this was made with Hamiltonian Mechanics and does in fact use the small angle approximation of cos(x) = 1 - x^2/2;
 
