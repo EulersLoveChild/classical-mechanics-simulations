@@ -1,6 +1,6 @@
 # Classical Mechanics Simulations
 
-Below, I document some physics simulations that fall under classical mechanics. This was done using Newtonian, Lagrangian, and Hamiltonian mechanics. 
+Below, I document some physics simulations that fall under classical mechanics. This was done using Newtonian, Lagrangian, and Hamiltonian mechanics. These scenarios are based off of the problems from 'Classical Mechanics' by John R. Taylor.
 
 **The angles were measured from the vertical down.
 
@@ -28,12 +28,12 @@ In this experiment, I simulate a pendulum attached to another pendulum. The acce
 
 ## 3) Two Masses and Three Springs
 
+[![MS](https://i.imgur.com/YWOpEv8.png)]
+
 In this experiment, I simulate two masses, with a spring between them, a spring between the first mass and a wall on the left, and a spring between the second mass and a wall to the right. Note that the acceleration compenents were obtained from Newtonian Mechanics.
 
 ## 4) Three Oscillating Pendulums with Springs
 
+[![PS](https://i.imgur.com/hYU8wHF.png)]
+
 In this experiment, I simulate three pendulums with springs between the 1st and 2nd, and the 2nd and 3rd. This was done with the help of Lagrangian Mechanics and so, the small angle aproximation was used for all three angles.
-
-## 5) N-Body Simulation (simple) 
-
-In this experiment, I simulate particles and their trajectories based on gravity. These particles are supposed to represent black-hole-like objects so a "black hole" can absorb another "black hole" when the one enters the other's event horizon. Obviously, this is a oversimplification of real life black hole mergers, but this is a decent simulation of what happens to these unrelatavistic objects.
