@@ -24,6 +24,8 @@ In this experiment, I simulate a pendulum attached to a mass. This mass is attac
 
 In this experiment, I simulate a pendulum attached to another pendulum. The acceleration components were constructed with the Lagrangian. In addition, I use a small angle approximation for both pendulums. 
 
+[![PP](https://i.imgur.com/0paH9rG.png)]
+
 ## 3) Two Masses and Three Springs
 
 In this experiment, I simulate two masses, with a spring between them, a spring between the first mass and a wall on the left, and a spring between the second mass and a wall to the right. Note that the acceleration compenents were obtained from Newtonian Mechanics.
