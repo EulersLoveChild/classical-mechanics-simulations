@@ -4,6 +4,10 @@ Below, I document some physics simulations that fall under classical mechanics. 
 
 **The angles were measured from the vertical down.
 **The positions of masses attached to springs was measured as the distance from the equilibrium positions.
+**Angles and positions were randomized to diversify the simulation.
+**Each simulation below (except N-Body) has two plots: y vs x and x vs t. The former is more visual and shows (and updates) the positions of each object along with side objects (which are taken to be massless), like springs and strings. The latter plot shows how the position changes (of objects with mass) with respect to time and is a simple scatterplot.
+    **In the formor plots, springs are always gray and strings are always black. Objects with mass are any color but those. The transparent circles of these graphs are the initial position of each of the objects with mass and are given just as a way to visually compare intial vs final positions of the system.
+    **In the latter plots, the colors of the objects with mass are the same as their colors from the first plot. 
 
 ## 1) Pendulum on an Oscillating Mass
  
@@ -21,6 +25,6 @@ In this experiment, I simulate two masses, with a spring between them, a spring 
 
 In this experiment, I simulate three pendulums with springs between the 1st and 2nd, and the 2nd and 3rd. This was done with the help of Lagrangian Mechanics and so, the small angle aproximation was used for all three angles.
 
-# 5) N-Body Simulation (simple) 
+## 5) N-Body Simulation (simple) 
 
 In this experiment, I simulate particles and their trajectories based on gravity. These particles are supposed to represent black-hole-like objects so a "black hole" can absorb another "black hole" when the one enters the other's event horizon. Obviously, this is a oversimplification of real life black hole mergers, but this is a decent simulation of what happens to these unrelatavistic objects.
