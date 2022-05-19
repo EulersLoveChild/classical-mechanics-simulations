@@ -16,7 +16,7 @@ Below, I document some physics simulations that fall under classical mechanics. 
 
 ## 1) Pendulum on an Oscillating Mass
 
-<iframe src="https://giphy.com/embed/uA0F91TvSX6aUG9QI2" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/uA0F91TvSX6aUG9QI2">via GIPHY</a></p>
+![](https://media.giphy.com/media/uA0F91TvSX6aUG9QI2/giphy.gif)
 ![MSP](https://i.imgur.com/O5choAa.png)
  
 In this experiment, I simulate a pendulum attached to a mass. This mass is attached to a spring, which is attached to a wall. Note that this was made with Hamiltonian Mechanics and does in fact use the small angle approximation of cos(x) = 1 - x^2/2;
