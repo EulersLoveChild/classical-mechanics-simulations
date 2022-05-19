@@ -14,6 +14,8 @@ Below, I document some physics simulations that fall under classical mechanics. 
 
 - In the latter plots, the colors of the objects with mass are the same as their colors from the first plot. 
 
+* **The gif and picture are from clearly different runs of the experiments**
+
 ## 1) Pendulum on an Oscillating Mass
 
 ![](https://media.giphy.com/media/uA0F91TvSX6aUG9QI2/giphy.gif)
@@ -23,18 +25,21 @@ In this experiment, I simulate a pendulum attached to a mass. This mass is attac
 
 ## 2) Double Pendulum
 
+![](https://media.giphy.com/media/8505j2nQUeVGERjodw/giphy.gif)
 ![PP](https://i.imgur.com/0paH9rG.png)
 
 In this experiment, I simulate a pendulum attached to another pendulum. The acceleration components were constructed with the Lagrangian. In addition, I use a small angle approximation for both pendulums. 
 
 ## 3) Two Masses and Three Springs
 
+![](https://media.giphy.com/media/ElLuA33sfjxPl2zMq6/giphy.gif)
 ![MS](https://i.imgur.com/YWOpEv8.png)
 
 In this experiment, I simulate two masses, with a spring between them, a spring between the first mass and a wall on the left, and a spring between the second mass and a wall to the right. Note that the acceleration compenents were obtained from Newtonian Mechanics.
 
 ## 4) Three Oscillating Pendulums with Springs
 
+![](https://media.giphy.com/media/LhBwbumq2a2TLfkGOS/giphy.gif)
 ![PS](https://i.imgur.com/hYU8wHF.png)
 
 In this experiment, I simulate three pendulums with springs between the 1st and 2nd, and the 2nd and 3rd. This was done with the help of Lagrangian Mechanics and so, the small angle aproximation was used for all three angles.
